@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/MengQuan.iml" filepath="$PROJECT_DIR$/app/MengQuan.iml" />
+      <module fileurl="file:///Applications/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/libcocos2dx/libcocos2dx.iml" filepath="/Applications/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/libcocos2dx/libcocos2dx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj.android-studio.iml" filepath="$PROJECT_DIR$/proj.android-studio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-loader/sample-loader.iml" filepath="$PROJECT_DIR$/sample-loader/sample-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-runtime/sample-runtime.iml" filepath="$PROJECT_DIR$/sample-runtime/sample-runtime.iml" />
+    </modules>
+  </component>
+</project>

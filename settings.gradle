@@ -1,0 +1,4 @@
+include ':libcocos2dx', ':sample-loader', ':sample-runtime'
+project(':libcocos2dx').projectDir = new File('/Applications/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/libcocos2dx')
+include ':MengQuan'
+project(':MengQuan').projectDir = new File(settingsDir, 'app')
